@@ -1,7 +1,7 @@
 help:
 	@cat Makefile
 
-DATA?="${HOME}/Data"
+DATA?="${HOME}/Desktop"
 GPU?=0
 DOCKER_FILE=Dockerfile
 DOCKER=GPU=$(GPU) nvidia-docker
