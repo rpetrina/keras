@@ -9,4 +9,4 @@ Used by Team BAH Chucktown Hub for the [2018 Data Science Bowl.](https://www.kag
 - [Imgaug](https://github.com/aleju/imgaug)
 - [Statsmodels](https://www.statsmodels.org/stable/index.html)
 - [Cython](http://cython.org/)
-- MS COCO API for Python (https://github.com/waleedka/coco.git)
+- [MS COCO API](http://cocodataset.org/#home) [for Python] (https://github.com/waleedka/coco.git)
